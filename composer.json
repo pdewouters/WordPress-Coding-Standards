@@ -1,0 +1,6 @@
+{
+    "name": "pdewouters/wp-coding-standards",
+    "require": {
+		"squizlabs/php_codesniffer": "1.*",
+    }
+}
