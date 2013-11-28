@@ -1,6 +1,10 @@
 {
     "name": "pdewouters/wp-coding-standards",
     "description": "wordpress coding standards",
+    "license": "GPL-2.0+",
+    "type": "wordpress-standards-phpcs",
+    "version": "dev-master",
+    "minimum-stability": "dev",
     "require": {
 		"squizlabs/php_codesniffer": "1.*"
     }
