@@ -1,5 +1,5 @@
 {
-    "name": "pdewouters/wp-coding-standards",
+    "name": "pdewouters/WordPress",
     "description": "wordpress coding standards",
     "license": "GPL-2.0+",
     "type": "wordpress-standards-phpcs",
